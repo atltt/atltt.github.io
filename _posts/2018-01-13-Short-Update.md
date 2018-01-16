@@ -1,6 +1,5 @@
 ---
 title: "Short Update"
-excerpt:
 last_modified_at: 2018-01-13T09:30:30-05:00
 tags:
   - Update
