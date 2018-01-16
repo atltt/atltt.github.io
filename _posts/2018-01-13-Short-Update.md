@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Short Update
 date: 2018-01-13
 ---
