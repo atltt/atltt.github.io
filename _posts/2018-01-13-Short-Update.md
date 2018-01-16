@@ -1,5 +1,6 @@
 ---
 title: "Short Update"
+date: 2018-01-13
 layout: post
 last_modified_at: 2018-01-13T09:30:30-05:00
 tags:
