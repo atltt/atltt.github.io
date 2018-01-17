@@ -6,4 +6,4 @@ image: /assets/images/Nature11.jpg
 ---
 
 
-Welcome to Brian's Site!
+Read my Posts below!
