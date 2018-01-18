@@ -11,8 +11,8 @@ email: brianslundell@gmail.com
 description: Brian's Site
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-author: Brian Lundell
-  name: "Brian"
+author: 
+  name: Brian Lundell
   twitter: InterstateFacts
   picture: /assets/images/logo.jpg
 twitter_username:
