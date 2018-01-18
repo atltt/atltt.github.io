@@ -19,10 +19,10 @@ email: brianslundell@gmail.com
 description: Brian's Site
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-author:
-  name:
-  twitter:
-  picture:
+author: Brian Lundell
+  name: Brian
+  twitter: InterstateFacts
+  picture: /assets/images/logo.jpg
 twitter_username:
 github_username: atltt
 linkedin_username: brianlundell
@@ -39,6 +39,9 @@ plugins: # previsously gems
   - jekyll-paginate
 feed:
   path: atom.xml
+  
+timezone: America/New_York
+google_analytics: "UA-112667291-1"
 
 # Pagination - https://jekyllrb.com/docs/pagination/
 paginate: 10
