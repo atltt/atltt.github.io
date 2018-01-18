@@ -12,7 +12,7 @@ description: Brian's Site
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author: Brian Lundell
-  name: Brian
+  name: "Brian"
   twitter: InterstateFacts
   picture: /assets/images/logo.jpg
 twitter_username:
