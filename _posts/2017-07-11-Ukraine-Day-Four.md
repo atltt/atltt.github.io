@@ -17,4 +17,5 @@ Chernobyl Museum which was one of the best museums I have ever been to. It was f
 had artifacts from pretty much everyone involved. They had these huge maps and models to show
 how big this disaster was. I didn't think photography was allowed so I didn't take any pictures which
 is very disappointing.
+
 The trip to Chernobyl is tomorrow and I am really excited to go!
