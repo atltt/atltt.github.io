@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ukraine Day Nine
+title: "Ukraine: Day Nine"
 ---
 
 Last day in Ukraine! We didn't do a whole lot to be honest. We spent most of the day at the parks
