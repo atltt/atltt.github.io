@@ -18,6 +18,6 @@ interesting pieces were the ones like from the short lived Ukrainian People's Re
 German bank notes used during the occupation were cool to see. At the end of museum, there was a
 special exposition on the Euromaidan which was really interesting. They had the riot shields and the
 Euromaidan propaganda. They also had the piano played atop of the Maidan. This exhibit was just
-really humbling to see.Afterwards, we went to a pizza place and got a pizza which had an Ukrainian
+really humbling to see. Afterwards, we went to a pizza place and got a pizza which had an Ukrainian
 twist on it. It was good and the main differences was in how the meats where prepared. We headed
 back to the hotel and relaxed for the rest of the day.
