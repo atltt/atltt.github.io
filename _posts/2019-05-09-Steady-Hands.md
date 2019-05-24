@@ -11,7 +11,7 @@ A week ago I was up +$4,710 (+701%), did I sell and capture smart gains? No, I t
 bull run!
 
 Then Trump tweeted. Trump's tweets have always been a meme with how much they can fluctuate the market, it's funny. I fully supported this tweet, but it still pains me
-to see the lost potential I had when I was at the top of the world. The damn Chinese pulled a total 180 on trade negiotiations and Trump is raising the
+to see the lost potential I had when I was at the top of the world. The Chinese pulled a total 180 on trade negiotiations and Trump is raising the
 tariffs on them. Even though I have lost $3000 within a week, I still support this trade war, I just really wish the stock market wouldn't get so jumpy over something
 nearly everyone realized would not go through. 
 
