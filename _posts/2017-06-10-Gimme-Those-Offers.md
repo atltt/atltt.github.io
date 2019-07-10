@@ -4,7 +4,7 @@ title: "Gimme Those Offers!"
 ---
 
 Yesterday or two days ago I signed up with every single airline and hotel rewards programs. SW, AA,
-Delta, UA and all the major foreign ones too. I really want those sweet (((targeted))) credit card
+Delta, UA and all the major foreign ones too. I really want those sweet targeted credit card
 offers. And who knows maybe I'll start manufacture spending and get those sick rewards. Also
 thinking about MSing with my student loans via either Gift of College gift cards. Also thinking
 about using plastiq to pay rent but I need to get a reliable source of fee free dollars to use on it, so
