@@ -1,7 +1,7 @@
 ---
 title: "About"
 layout: about
-image: /assets/images/Nature11.jpg
+image: /assets/images/VietnamHueys.jpg
 ---
 
 Brian Lundell
