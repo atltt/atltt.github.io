@@ -7,13 +7,13 @@
 # in the templates via {{ site.myvariable }}.
 lang: en-US
 title: Brian Lundell
-email: brianslundell@gmail.com
+email: info@brianslundell.net
 description: Brian's Site
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author: 
   name: Brian Lundell
-  twitter: InterstateFacts
+  twitter: brianslundell
   picture: /assets/images/logo.jpg
 twitter_username:
 github_username: atltt
@@ -32,7 +32,7 @@ plugins: # previsously gems
 feed:
   path: atom.xml
   
-timezone: America/New_York
+timezone: America/Denver
 google_analytics: "UA-112667291-1"
 
 # Pagination - https://jekyllrb.com/docs/pagination/
